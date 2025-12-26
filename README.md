@@ -12,7 +12,7 @@ El sistema opera bajo un modelo de **Gobernanza Autónoma**, donde los agentes n
 3. **SecurityMemory:** Capa de persistencia que permite al sistema aprender de colisiones y errores previos para evitar regresiones.
 
 ## 🛠️ Confirmación de la Técnica
-Siguiendo los estándares de seguridad industrial y protección de **IP**, este repositorio no contiene el motor de producción (actualmente en desarrollo en C++). En su lugar, compartimos:
+Siguiendo los estándares de seguridad industrial y protección de **IP**, este repositorio no contiene el motor de producción (actualmente en desarrollo en C++). En su lugar, compartimos: [Conceptual Logic: SecurityMemory Collision](https://gist.github.com/DiegoGuti2115/e3ca4506ee240518554c3519a363559f)
 
 * **Estrategia de Autocuración:** Documentación sobre cómo el sistema identifica fallos en tiempo real y propone parches certificados.
 * **Demos Asépticas:** Próximamente publicaremos sesiones de terminal grabadas con `asciinema` para demostrar el funcionamiento del motor sin exponer la lógica interna.
