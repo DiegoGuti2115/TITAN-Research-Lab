@@ -1,5 +1,7 @@
 # 🔬 TITAN-Research-Lab: Autonomous DevSecOps & Governance
 
+Official Whitepaper available on ResearchGate with DOI: 10.13140/RG.2.2.22493.88802
+
 Este repositorio constituye el entorno de investigación y validación conceptual de **TITAN**, un ecosistema multi-agente diseñado para la transición de la IA generativa de código hacia **Sistemas de Certificación de Software Nivel 3**.
 
 ## 📑 Metodología de Investigación
