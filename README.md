@@ -1,8 +1,6 @@
 # 🔬 TITAN-Research-Lab: Autonomous DevSecOps & Governance 
 
 [![DOI:10.13140/RG.2.2.22493.88802](https://img.shields.io/badge/DOI-10.13140/RG.2.2.22493.88802-blue.svg)](https://doi.org/10.13140/RG.2.2.22493.88802)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Preprint-00ccbb.svg)](https://www.researchgate.net/publication/387222493_TITAN_Un_Framework_de_Gobernanza_Autonoma_Hibrida_para_la_Mitigacion_del_Yes-Man_Effect_en_Sistemas_Multi-Agente_de_Grado_Industrial)
 
 Este repositorio constituye el entorno de investigación y validación conceptual de **TITÁN**, un ecosistema multi-agente diseñado para la transición de la IA generativa hacia **Sistemas de Certificación de Software Nivel 3**.
 
